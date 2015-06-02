@@ -1,5 +1,5 @@
 # GBRE
-GB Runtime Environment for iOS https://ericgram.github.io/GBRE/GBRE.html
+GB Runtime Environment for iOS https://ericgramgb.github.io/GBRE/GBRE.html
 
 ## Browsers
 work well
