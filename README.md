@@ -48,3 +48,6 @@ also
 * "999 fps" - No wait.
 * "Controller" - Adjust controller size.
 * "2P" - Boot a second GB to communicate or exchange data.
+
+#####BTC
+`1PSSffekiKaKUsfkmVz4oM6sMS6agAMVAY`
