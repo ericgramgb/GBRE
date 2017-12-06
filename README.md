@@ -25,16 +25,11 @@ also
 * W - Up / A - Left / S - Down / D - Right
 * L - A / K - B / I - Start / O - Select
 
-## How to open "your_own_rom.gb" on iOS devices
-...using Dropbox
-
-1. Upload "GBRE.html" and "your_own_rom.gb" to Dropbox.
-2. Open your account page in iOS Safari.
-3. Get a link to the ROM file. (Its URL should start with "https ://dl-web.dropbox.com".)
-4. Open "GBRE.html".
-5. Tap "Open URL".
-6. Paste a link.
-7. Run. (It is recommended to close all tabs and reopen it.)
+## How to open ".gb" or ".gbc" file
+1. Open "GBRE.html".
+2. Tap "Choose File".
+3. Browse and select a file.
+4. Touch the LCD area of the screen to run.
 
 (If you upload a file to the web server that is configured to send "Access-Control-Allow-Origin" header, you can specify the URL directly.)
 
@@ -49,5 +44,8 @@ also
 * "Controller" - Adjust controller size.
 * "2P" - Boot a second GB to communicate or exchange data.
 
-#####BTC
-`1PSSffekiKaKUsfkmVz4oM6sMS6agAMVAY`
+### BTC
+`1Dvh3ACuqWnPfUcoUF5fBViaW2T7PEzFGA`
+
+### ETH
+`0x878d792217d8188b1818318a00306b3772E9a35b`
